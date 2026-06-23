@@ -39,3 +39,5 @@ pip install pygame
 ```bash
 python main.py
 ```
+## Author
+Muhammed Shaheer
